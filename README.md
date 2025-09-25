@@ -1,0 +1,2 @@
+# STAT-XAI-Turning-Model-Explanations-into-Testable-Statistical-Statements
+Artificial-intelligence systems are increasingly used in settings where decisions must be explained. Most popular explainers rely on heuristics and provide no statistical guarantees, leaving users unsure which features truly matter. We introduce STAT-XAI, a model-agnostic framework that turns explanations into testable statistical statements
